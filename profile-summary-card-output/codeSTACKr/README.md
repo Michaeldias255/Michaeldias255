@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/Michaeldias255/Michaeldias255/main/profile-summary-card-output/codeSTACKr/4-productive-time.svg)
-```
-
-    
